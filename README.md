@@ -1,9 +1,6 @@
-# Internet.nl
+# ipv6.cool - fork for interlan.se from Internet.nl
 
-Internet.nl is an initiative of the Dutch Internet Standards Platform that
-helps you to check whether your website, email and internet connection use
-modern and reliable Internet Standards. And if they don’t, what can you do
-about it?
+Main goal with the fork is to get Swedish translation.
 
 
 ## Background
